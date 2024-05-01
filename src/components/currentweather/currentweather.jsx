@@ -1,4 +1,5 @@
 import React from 'react'
+import './currentweather.css'
 
 export default function currentweather({data}) {
   return (
